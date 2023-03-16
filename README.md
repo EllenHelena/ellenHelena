@@ -1,7 +1,7 @@
 ### Hello 👋
 
 - 👩 I'm Ellen
-- 📍 I'm pendeling between Amsterdam and Zurich
+- 📍 I'm based in Amsterdam
 - 💡 I'm currently learning JS
 - 👩‍💻 I'll work as a fullstack JS/TS dev
 - :eyes: did I mention that I'm curious 
