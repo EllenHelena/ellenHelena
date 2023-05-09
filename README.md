@@ -8,4 +8,4 @@
 - 🏢 Previously I run my own modelling agency for 8 years..
 - 🏛️ I also went to law school
 - :raised_hands: Open for collabs, reach out if you need a fullstack dev or entrepreneur
-- 📞 Contact me via <a href="https://www.linkedin.com/in/ellen-de-kerf/">LinkdIn</a>
+- 📞 Contact me via <a href="https://www.linkedin.com/in/ellen-de-kerf/">LinkedIn</a>
